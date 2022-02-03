@@ -81,5 +81,3 @@ To run the project on Windows by manually typing the commands one by one, do the
 * Go to `localhost:3000/` and access Sattva Frontend !
 
 
-
-* Go to `localhost:3000` and use Project21 for your needs!
