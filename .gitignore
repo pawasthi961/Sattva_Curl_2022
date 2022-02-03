@@ -1,0 +1,5 @@
+venv
+backend/twitter_api_credentials.py
+backend/cloudinary_credentials.py
+backend/test.py
+backend/yolov5/
