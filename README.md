@@ -1,6 +1,6 @@
 # Sattva_Curl_2022
 <p align="center">
-  <img src="images/Sattva_logo.png" alt="logo" style="width: 200px" />
+  <img src="images/Sattva_logo.png" alt="logo" style="width: 400px" />
 </p>
 ### Installation and Running Instructions - Windows
 
@@ -84,8 +84,23 @@ To run the project on Windows by manually typing the commands one by one, do the
 
 # Architecture of Sattva <a id='BLOCKS'></a>
 
-## Data flow architecture of Sattva
+## Data Flow Architecture of Sattva
 <p align="center">
   <img src="images/Sattva_data_flow_architecture.jpg" alt="data_flow"  />
+</p>
+
+## AI Camera Prototype Architecture
+<p align="center">
+  <img src="images/Sattva_AI_Camera_Prototype_Architecture.jpg" alt="ai_camera_prototype_architecture"  />
+</p>
+
+## Neural Style Transfer Model Architecture
+<p align="center">
+  <img src="images/NST_architecture.jpg" alt="nst_model_architecture"  />
+</p>
+
+## NST Generated Images
+<p align="center">
+  <img src="images/NST_generated_image.png" alt="nst_generated_image"  />
 </p>
 
