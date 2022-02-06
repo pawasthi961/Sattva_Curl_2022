@@ -4,8 +4,12 @@
 </p>
 
 <hr>
+Nature knew how to heal herself, from time immemorial. But now, the delicate symbiotic balance between life and nature has been disturbed. This imbalance arose, because nature has always been commensal, where one entity benefits and the other experiences no harm, but humans benefit at the cost of the other. To coexist, this relationship ought to be mutualistic. Since human qualities like negligence and greed have harmed nature, it has resulted in a conclusion that expresses the underlying challenge of the project : “How do we minimize humans’ responsibility to protect nature and make nature self-sovereign ?”
 
-Sattva is a end-to-end platform that focuses on capturing and harnessing the value that a park generates. It converts images created or owned by the park into attractive artworks automatically. We make them unique by utilizing an object detection model and integrating creative styles with nature photographs using neural style transfer algorithms. As a result, no two photographs are ever the same. These artworks are turned into Non Fungible Tokens (NFTs) and sold on Opensea on behalf of the park.
+Sattva does exactly this. It considers a park as an analogy to the biosphere.
+It is an end to end platform that  focuses on capturing and harnessing the value that a park generates by automatically converting images created or owned by the park into exquisite artworks. It then converts these artworks into NFTs and sells it on platforms like Opensea on behalf of the park.
+This helps us arrive at a mutualistic relationship, where both the entities (here, the park and the people)  benefit. 
+We make the park a complete thinking organism who has a mind and a personality of her own and takes decisions on matters like reinvestment, independently.
 
 <hr>
 
