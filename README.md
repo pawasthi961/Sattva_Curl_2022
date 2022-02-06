@@ -1,5 +1,7 @@
 # Sattva_Curl_2022
-
+<p align="center">
+  <img src="images/21_logo.png" alt="logo" style="width: 200px" />
+</p>
 ### Installation and Running Instructions - Windows
 
 #### Method 1 - Manually Typing Instructions In Terminal
