@@ -65,7 +65,7 @@ To run the project on Windows by manually typing the commands one by one, do the
   4. Start the Frontend server (From the root folder - can be done by opening a new terminal window)
 
      ```shell
-     cd Frontend\dashboard2\
+     cd frontend\dashboard2\
      npm start
      ```
      
