@@ -82,4 +82,10 @@ To run the project on Windows by manually typing the commands one by one, do the
   
 * Go to `localhost:3000/` and access Sattva Frontend !
 
+# Architecture of Sattva <a id='BLOCKS'></a>
+
+## Data flow architecture of Sattva
+<p align="center">
+  <img src="images/Sattva_data_flow_architecture.jpg" alt="data_flow" style="width: 200px" />
+</p>
 
