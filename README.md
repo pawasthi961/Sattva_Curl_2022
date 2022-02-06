@@ -7,6 +7,7 @@
 
 Sattva is a end-to-end platform that focuses on capturing and harnessing the value that a park generates. It converts images created or owned by the park into attractive artworks automatically. We make them unique by utilizing an object detection model and integrating creative styles with nature photographs using neural style transfer algorithms. As a result, no two photographs are ever the same. These artworks are turned into Non Fungible Tokens (NFTs) and sold on Opensea on behalf of the park.
 
+<hr>
 
 ### Installation and Running Instructions - Windows
 
