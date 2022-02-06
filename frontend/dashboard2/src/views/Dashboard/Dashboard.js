@@ -381,7 +381,7 @@ export default function Dashboard() {
                       wrapperStyle={{
                         fontFamily:"sans-serif", 
                         position: "relative", 
-                        bottom: "325px",
+                        bottom: "420px",
                         left: "50px"}} 
                     />
                     <Line 
@@ -486,7 +486,7 @@ export default function Dashboard() {
                       wrapperStyle={{
                         fontFamily:"sans-serif", 
                         position: "relative", 
-                        bottom: "310px", 
+                        bottom: "400px", 
                         left: "50px"}} 
                     />
                     <Bar 
@@ -557,7 +557,7 @@ export default function Dashboard() {
                       wrapperStyle={{
                         fontFamily:"sans-serif", 
                         position: "relative", 
-                        bottom: "310px",
+                        bottom: "400px",
                         left: "50px"}} 
                     />
                     <Line 
@@ -604,7 +604,7 @@ export default function Dashboard() {
       <div className={classesArtwork.container}>
         <div className={classesArtwork.imageCard}>
           <a
-            href="https://testnets.opensea.io/assets/0x527edca3cb3a5653ee82996e26ed432dbc1856fb/3"
+            href="https://testnets.opensea.io/assets/mumbai/0x22303da2c3fd2b8d6013fb93dfe883497163376e/3"
             target="_blank"
             rel="noreferrer"
           >
@@ -612,12 +612,12 @@ export default function Dashboard() {
           </a>
           <h4 className={classes.cardProductTitle}>
             <a
-              href="https://testnets.opensea.io/assets/0x527edca3cb3a5653ee82996e26ed432dbc1856fb/3"
+              href="https://testnets.opensea.io/assets/mumbai/0x22303da2c3fd2b8d6013fb93dfe883497163376e/3"
               target="_blank"
               rel="noreferrer"
               style={{fontFamily:"Roboto Slab"}}
             >
-              Name of the Image
+              Sattva #0002
             </a>
           </h4>
           <h4 className={classes.cardProductDesciprion} style={{fontFamily:"Roboto Slab", color:"black", fontWeight:"bold"}}>Current Price</h4>

@@ -46,7 +46,7 @@ export default function UploadedImage() {
     <div>
       <Heading
         textAlign="center"
-        title="Approved Images"
+        title="Uploaded Images"
         category={
           <span>
             Displays all images uploaded by Admin on the website
